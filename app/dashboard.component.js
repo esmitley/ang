@@ -53,4 +53,4 @@ System.register(['angular2/core', 'angular2/router', './hero.service'], function
         }
     }
 });
-//# sourceMappingURL=dashboard.components.js.map
+//# sourceMappingURL=dashboard.component.js.map
